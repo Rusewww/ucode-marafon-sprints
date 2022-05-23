@@ -1,1 +1,1 @@
-# ucode-marafon-sprints
+# ucode-marafon
